@@ -13,6 +13,6 @@
 	export let type
 </script>
 
-<h1>{type.toUpperCase()} Cat</h1>
+<h1>{type} cat</h1>
 
 <img src={`https://cataas.com/cat/${type}`} alt="a {type} cat" />
