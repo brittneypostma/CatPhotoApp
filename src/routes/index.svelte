@@ -1,3 +1,7 @@
+<script context="module">
+	export let prerender = true
+</script>
+
 <h1>CatPhotoApp</h1>
 <main>
 	<section>
