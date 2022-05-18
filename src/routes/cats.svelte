@@ -1,7 +1,3 @@
-<script context="module">
-	export let prerender = true
-</script>
-
 <script>
 	export let cats
 </script>
